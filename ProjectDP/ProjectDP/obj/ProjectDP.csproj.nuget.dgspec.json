@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\jeand\\Documents\\Cours2018-2019\\DP Project\\ProjectDP\\ProjectDP\\ProjectDP.csproj": {}
+  },
+  "projects": {
+    "D:\\jeand\\Documents\\Cours2018-2019\\DP Project\\ProjectDP\\ProjectDP\\ProjectDP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\jeand\\Documents\\Cours2018-2019\\DP Project\\ProjectDP\\ProjectDP\\ProjectDP.csproj",
+        "projectName": "ProjectDP",
+        "projectPath": "D:\\jeand\\Documents\\Cours2018-2019\\DP Project\\ProjectDP\\ProjectDP\\ProjectDP.csproj",
+        "packagesPath": "C:\\Users\\jeand\\.nuget\\packages\\",
+        "outputPath": "D:\\jeand\\Documents\\Cours2018-2019\\DP Project\\ProjectDP\\ProjectDP\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jeand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

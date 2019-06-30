@@ -1,0 +1,11 @@
+D:\jeand\Documents\Cours2018-2019\DP Project\ProjectDP\ProjectDP\bin\Debug\netcoreapp2.1\ProjectDP.deps.json
+D:\jeand\Documents\Cours2018-2019\DP Project\ProjectDP\ProjectDP\bin\Debug\netcoreapp2.1\ProjectDP.runtimeconfig.json
+D:\jeand\Documents\Cours2018-2019\DP Project\ProjectDP\ProjectDP\bin\Debug\netcoreapp2.1\ProjectDP.runtimeconfig.dev.json
+D:\jeand\Documents\Cours2018-2019\DP Project\ProjectDP\ProjectDP\bin\Debug\netcoreapp2.1\ProjectDP.dll
+D:\jeand\Documents\Cours2018-2019\DP Project\ProjectDP\ProjectDP\bin\Debug\netcoreapp2.1\ProjectDP.pdb
+D:\jeand\Documents\Cours2018-2019\DP Project\ProjectDP\ProjectDP\obj\Debug\netcoreapp2.1\ProjectDP.csprojAssemblyReference.cache
+D:\jeand\Documents\Cours2018-2019\DP Project\ProjectDP\ProjectDP\obj\Debug\netcoreapp2.1\ProjectDP.csproj.CoreCompileInputs.cache
+D:\jeand\Documents\Cours2018-2019\DP Project\ProjectDP\ProjectDP\obj\Debug\netcoreapp2.1\ProjectDP.AssemblyInfoInputs.cache
+D:\jeand\Documents\Cours2018-2019\DP Project\ProjectDP\ProjectDP\obj\Debug\netcoreapp2.1\ProjectDP.AssemblyInfo.cs
+D:\jeand\Documents\Cours2018-2019\DP Project\ProjectDP\ProjectDP\obj\Debug\netcoreapp2.1\ProjectDP.dll
+D:\jeand\Documents\Cours2018-2019\DP Project\ProjectDP\ProjectDP\obj\Debug\netcoreapp2.1\ProjectDP.pdb
