@@ -1,7 +1,7 @@
 ﻿using System;
 using ProjectDP.Service;
 using ProjectDP.Restaurent;
-using ProjectDP.Order;
+using ProjectDP.Command;
 
 
 
@@ -17,15 +17,11 @@ namespace ProjectDP
 
             // KEBAB BUILDER
             Kebab kebab = new Kebab();
-            kebab.AddBread();
-            kebab.AddMeats();
-
-            // BURGER
-            Burger burger = Kebab.getBurger();
+                   
 
             // ORDER
             Order order = new Order();
-            order.setBurger();
+            order.setBurger(kebab.Burger);
             ValidatedStatus validatedStatus = new ValidatedStatus();
             order.setStatus(validatedStatus);
             validatedStatus.goNext(order);

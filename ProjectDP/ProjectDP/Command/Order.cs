@@ -1,15 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using ProjectDP.Restaurent;
 
-namespace ProjectDP.Order
+namespace ProjectDP.Command
 {
     public class Order
     {
         private IStatus status;
-        private Burger burger {
-            get { return this.burger;}
-            set { this.burger = value;}
+
+        private Burger burger;
+        public Burger getBurger() { 
+            return this.burger;
+        }
+        public void setBurger(Burger value)
+        {
+            this.burger = value; 
+
         }
 
         public IStatus getStatus()

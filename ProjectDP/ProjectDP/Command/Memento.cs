@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ProjectDP.Order
+namespace ProjectDP.Command
 {
    public class Memento
     {
