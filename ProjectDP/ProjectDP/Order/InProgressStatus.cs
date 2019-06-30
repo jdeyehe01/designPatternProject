@@ -6,6 +6,12 @@ namespace ProjectDP.Order
 {
     public class InProgressStatus : IStatus
     {
+
+        public InProgressStatus()
+        {
+            Console.WriteLine("Commande en cours");
+        }
+
         public void goNext(Order order)
         {
             ValidatedStatus status = new ValidatedStatus();

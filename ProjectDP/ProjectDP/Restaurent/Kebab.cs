@@ -6,9 +6,16 @@ namespace ProjectDP.Restaurent
 {
     public class Kebab : BurgerBuilder
     {
+
+        private Burger burger {
+            get { return this.burger;}
+            set { this.burger = value;}
+        }
+
         public Kebab()
         {
             burger = new Burger("Kebab");
+            Console.WriteLine("Construction du Kebab ...");
         }
 
         public override void AddBread()

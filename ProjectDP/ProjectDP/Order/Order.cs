@@ -7,6 +7,10 @@ namespace ProjectDP.Order
     public class Order
     {
         private IStatus status;
+        private Burger burger {
+            get { return this.burger;}
+            set { this.burger = value;}
+        }
 
         public IStatus getStatus()
         {
